@@ -28,6 +28,8 @@ module.exports = {
       'lighterback': '#1E1F22',
       'darkcontrast': '#2D74F7',
       'lightcontrast': '#57BAFE',
+      'lightsecondcontrast': '#724ebf',
+      'lightsuccess': '#64bf56',
       'lighterror': '#F7505A',
       'darkerror': '#ba3a41',
     },
